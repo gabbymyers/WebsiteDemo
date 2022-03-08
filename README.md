@@ -10,3 +10,8 @@
 
 ### Look at my cute dog
 ![A picture of a dog](https://raw.githubusercontent.com/gabbymyers/WebsiteDemo/main/images/IMG_4820.jpg)
+
+### Code
+~~~
+very complicated code
+~~~

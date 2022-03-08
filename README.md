@@ -3,8 +3,8 @@
 
 ### Datafewsion learning community goals
 
-[x] Make a respository
-[x] Publish a website
-[x] Edit content
-[ ] Use more advanced themes
+- [x] Make a respository
+- [x] Publish a website
+- [x] Edit content
+- [ ] Use more advanced themes
 

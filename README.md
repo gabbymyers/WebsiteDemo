@@ -8,3 +8,5 @@
 - [x] Edit content
 - [ ] Use more advanced themes
 
+### Look at my cute dog
+![A picture of a dog](https://raw.githubusercontent.com/gabbymyers/WebsiteDemo/main/images/IMG_4820.jpg)
